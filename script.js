@@ -91,7 +91,7 @@ function getLocalWeather(position) {
   axios.get(apiUrl).then(updateDisplay);
 }
 
-let localButton = document.querySelector("#localButton");
+let localButton = document.querySelector("#local-button");
 localButton.addEventListener("click", getLocalWeather);
 
 function displayFahrenheit(event) {

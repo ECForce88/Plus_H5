@@ -34,6 +34,10 @@ body {
     line-height: 27px;
     color: gray;
   }
+  footer p{
+    color:#08204e;
+    font-family:sans-serif;
+  }
   
   .tempUnit {
     font-size: 20px;
@@ -52,3 +56,7 @@ body {
     margin-top: 10px;
   }
   
+  .ecf{
+    color:#6fa2ff;
+    font-family:cursive;
+  }

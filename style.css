@@ -38,6 +38,7 @@ body {
     color:black;
     font-family:sans-serif;
     margin-top:0px;
+    font-style: none;
   }
   
   .tempUnit {
@@ -61,5 +62,5 @@ body {
   
   .ecf{
     color:white;
-    font-family:cursive;
+    font-family:sans-serif;
   }

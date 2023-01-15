@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    padding-top: 60px;
+    padding-top: 5%;
     padding-left: 15%;
     padding-right: 15%;
     background-color: #6fa2ff;
@@ -34,14 +34,18 @@ body {
     line-height: 27px;
     color: gray;
   }
-  footer a:{
+
+  a{
     color:black;
-    font-family:sans-serif;
-    margin-top:0px;
-    text-decoration:none;
+    padding-top:0;
+    margin-top:0;
   }
+  
   a:link {
     text-decoration: none;
+    font-family:sans-serif;
+    margin-top:0px;
+    
   }
   a:hover{
     cursor: pointer;
@@ -69,6 +73,6 @@ body {
   }
   
   .ecf{
-    color:white;
+    color:#7b3ab0;
     font-family:sans-serif;
   }

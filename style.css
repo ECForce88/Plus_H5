@@ -34,11 +34,19 @@ body {
     line-height: 27px;
     color: gray;
   }
-  footer a{
+  footer a:{
     color:black;
     font-family:sans-serif;
     margin-top:0px;
-    font-style: none;
+    text-decoration:none;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:hover{
+    cursor: pointer;
+    font-weight:bold;
+    text-decoration: none;
   }
   
   .tempUnit {
